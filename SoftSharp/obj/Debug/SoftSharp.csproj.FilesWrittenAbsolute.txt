@@ -1,0 +1,7 @@
+/Users/johnwatson/projects/SoftSharp/SoftSharp/obj/Debug/SoftSharp.Form1.resources
+/Users/johnwatson/projects/SoftSharp/SoftSharp/obj/Debug/SoftSharp.Properties.Resources.resources
+/Users/johnwatson/projects/SoftSharp/SoftSharp/bin/Debug/SoftSharp.exe.config
+/Users/johnwatson/projects/SoftSharp/SoftSharp/bin/Debug/SoftSharp.exe.mdb
+/Users/johnwatson/projects/SoftSharp/SoftSharp/bin/Debug/SoftSharp.exe
+/Users/johnwatson/projects/SoftSharp/SoftSharp/obj/Debug/SoftSharp.exe
+/Users/johnwatson/projects/SoftSharp/SoftSharp/obj/Debug/SoftSharp.exe.mdb

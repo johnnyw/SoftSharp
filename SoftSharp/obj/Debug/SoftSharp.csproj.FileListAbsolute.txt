@@ -1,0 +1,17 @@
+C:\Documents and Settings\Johnny\Local Settings\Application Data\Temporary Projects\SoftSharp\bin\Debug\SoftSharp.exe
+C:\Documents and Settings\Johnny\Local Settings\Application Data\Temporary Projects\SoftSharp\bin\Debug\SoftSharp.pdb
+C:\Documents and Settings\Johnny\Local Settings\Application Data\Temporary Projects\SoftSharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Johnny\Local Settings\Application Data\Temporary Projects\SoftSharp\obj\Debug\SoftSharp.Form1.resources
+C:\Documents and Settings\Johnny\Local Settings\Application Data\Temporary Projects\SoftSharp\obj\Debug\SoftSharp.Properties.Resources.resources
+C:\Documents and Settings\Johnny\Local Settings\Application Data\Temporary Projects\SoftSharp\obj\Debug\SoftSharp.csproj.GenerateResource.Cache
+C:\Documents and Settings\Johnny\Local Settings\Application Data\Temporary Projects\SoftSharp\obj\Debug\SoftSharp.exe
+C:\Documents and Settings\Johnny\Local Settings\Application Data\Temporary Projects\SoftSharp\obj\Debug\SoftSharp.pdb
+C:\Documents and Settings\Johnny\My Documents\Visual Studio 2008\Projects\SoftSharp\SoftSharp\obj\Debug\SoftSharp.exe
+C:\Documents and Settings\Johnny\My Documents\Visual Studio 2008\Projects\SoftSharp\SoftSharp\obj\Debug\SoftSharp.pdb
+C:\Documents and Settings\Johnny\My Documents\Visual Studio 2008\Projects\SoftSharp\SoftSharp\bin\Debug\SoftSharp.exe
+C:\Documents and Settings\Johnny\My Documents\Visual Studio 2008\Projects\SoftSharp\SoftSharp\bin\Debug\SoftSharp.pdb
+C:\Documents and Settings\Johnny\My Documents\Visual Studio 2008\Projects\SoftSharp\SoftSharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Johnny\My Documents\Visual Studio 2008\Projects\SoftSharp\SoftSharp\obj\Debug\SoftSharp.Form1.resources
+C:\Documents and Settings\Johnny\My Documents\Visual Studio 2008\Projects\SoftSharp\SoftSharp\obj\Debug\SoftSharp.Properties.Resources.resources
+C:\Documents and Settings\Johnny\My Documents\Visual Studio 2008\Projects\SoftSharp\SoftSharp\obj\Debug\SoftSharp.csproj.GenerateResource.Cache
+C:\Documents and Settings\Johnny\My Documents\Visual Studio 2008\Projects\SoftSharp\SoftSharp\bin\Debug\SoftSharp.exe.config

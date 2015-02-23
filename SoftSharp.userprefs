@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="SoftSharp/SoftSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SoftSharp/Program.cs">
+    <Files>
+      <File FileName="SoftSharp/ShadeMode.cs" Line="1" Column="1" />
+      <File FileName="SoftSharp/Matrix.cs" Line="1" Column="1" />
+      <File FileName="SoftSharp/RenderDevice.cs" Line="16" Column="16" />
+      <File FileName="SoftSharp/Form1.cs" Line="1" Column="1" />
+      <File FileName="SoftSharp/Program.cs" Line="38" Column="38" />
+      <File FileName="SoftSharp/Vector2.cs" Line="1" Column="1" />
+      <File FileName="SoftSharp/Vector3.cs" Line="1" Column="1" />
+      <File FileName="SoftSharp/Vector4.cs" Line="1" Column="1" />
+      <File FileName="SoftSharp/Vertex.cs" Line="1" Column="1" />
+      <File FileName="SoftSharp/Viewport.cs" Line="1" Column="1" />
+      <File FileName="SoftSharp/ClearFlags.cs" Line="1" Column="1" />
+      <File FileName="SoftSharp/CullMode.cs" Line="1" Column="1" />
+      <File FileName="SoftSharp/DepthFunction.cs" Line="1" Column="1" />
+      <File FileName="SoftSharp/Light.cs" Line="1" Column="1" />
+      <File FileName="SoftSharp/Material.cs" Line="1" Column="1" />
+      <File FileName="SoftSharp/MaterialSource.cs" Line="1" Column="1" />
+      <File FileName="SoftSharp/PrimitiveType.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
